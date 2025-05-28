@@ -4,3 +4,7 @@
 #### Header 4
 
 ![Image of Github cat](https://octodex.github.com/images/yaktocat.png)
+
+```md
+Console.log("Github support coding!");
+```
