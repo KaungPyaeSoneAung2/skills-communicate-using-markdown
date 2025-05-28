@@ -8,3 +8,7 @@
 ```md
 Console.log("Github support coding!");
 ```
+
+- [x] Eat
+- [ ] Sleep
+- [ ] Repeat
